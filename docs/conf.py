@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'rtd-model'
-copyright = '2018, Joshua Segal'
-author = 'Joshua Segal'
+project = 'navy-reserve-wiki'
+copyright = ''
+author = 'Lance Gundersen'
 
 # The short X.Y version
 version = ''
@@ -130,7 +130,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'rtd-model.tex', 'rtd-model Documentation',
-     'Joshua Segal', 'manual'),
+     'Lance Gundersen', 'manual'),
 ]
 
 
