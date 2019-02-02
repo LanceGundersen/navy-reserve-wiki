@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'navy-reserve-wiki'
-copyright = ''
+copyright = 'Public Domain'
 author = 'Lance Gundersen'
 
 # The short X.Y version
-version = ''
+version = '1.0'
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
