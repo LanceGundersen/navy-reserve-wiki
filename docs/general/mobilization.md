@@ -1,4 +1,5 @@
-# MOBILIZATION (TRAINING) DEPARTMENT (N5)
+# MOBILIZATION
+Office Code: N5
 					
 All members of the Reserve are subject to recall to active duty.  The Mobilization Department takes care of initial notification and processing of reservists for mobilization, de-mobilization, and ADSW.  Verbal notification to member is followed by email/phone call to unit CO/OIC.  
 
