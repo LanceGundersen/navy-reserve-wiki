@@ -1,4 +1,5 @@
-# SUPPLY DEPARTMENT (N4)
+# SUPPLY
+Offie Code: N4
 
 ## UNIFORMS
 Depending upon eligibility, E-6 and below personnel are entitled to an initial Seabag and replacement issuance of uniform items.  Officer and Enlisted personnel will receive organizational clothing, if they are attached to units entitled to them.  These organizational uniforms will be issued through the gaining command.  Uniform issues should be addressed to the NOSC Supply Department. Uniforms may be ordered online at http://www.kyloc.com/navy.  Additional uniform items may be purchased online through the Navy Exchange Uniform Shop website at http://www.navy-nex.com.  Reimbursements for Navy Exchange Uniform Shop purchases are NOT authorized.
