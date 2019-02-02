@@ -37,6 +37,8 @@ To verify your status of security clearances go to;
 # EVALS/FITREPS
 Evaluations and Fitness Reports document individual performance and are critical to the advancement and promotion process.  Refer to BUPERS Instruction 1610.10 for enlisted evaluation and officer fitness report 
 
+![FITREP/EVAL Planning Calendar](https://github.com/LanceGundersen/navy-reserve-wiki/images/evalplanning.png "FITREP/EVAL Planning Calendar")
+
 # AWARDS
 For more information about awards, including whether your unit and personal awards are documented, or the order of precedence for wearing ribbons, visit https://awards.navy.mil.  See also SECNAV Instruction 1650.1 series, the Navy and Marine Corps Awards Manual, for more details. 
 
