@@ -1,4 +1,4 @@
-# Example Orders Page
+# Orders
 
 Blurb about the page and what it can offer, etc. The idea is to write to the newest Sailor out there. Careful with the accronyms, grab the shipmates hand and guide them.
 
