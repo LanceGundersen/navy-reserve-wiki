@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'navy-reserve-wiki'
+project = 'Navy Reserve Wiki'
 copyright = 'Public Domain'
 author = 'Lance Gundersen'
 
