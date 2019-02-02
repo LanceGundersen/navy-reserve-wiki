@@ -1,4 +1,5 @@
-# TRAVEL DEPARTMENT (N3)
+# TRAVEL
+Office Code: N3
 
 The Travel department processes all SELRES travel orders and travel-related issues, including Government Travel Charge Card (GTCC) and travel claims.  All personnel in a Selected Reserve (SELRES) status are required to perform a minimum of 12 days of active duty Annual Training (AT) each fiscal year.  All AT/ADT/ADSW/IDTT must be done pursuant to approved orders.
 
