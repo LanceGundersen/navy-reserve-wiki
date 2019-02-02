@@ -1,4 +1,5 @@
-# MEDICAL DEPARTMENT (N9)
+# MEDICAL
+Office Code: N9
 
 All reservists are required to meet the Navy’s physical requirements.  Medical and Dental requirements will be passed down from your unit medical representative and can be verified by the individual on BOL under IMR.  The appointments list and unit 30,60, 90 day projections.  The NOSC Medical Department provides the following services:  Periodic Health Assessments (PHA), Dental exams (classification only), Immunizations, and all required Blood Work.  NOSC Medical is required to maintain all service treatment records, and manage hard hold orders in NROWS. **KEEP YOUR MEDICAL REQUIREMENTS UP TO DATE**!
 
