@@ -1,9 +1,17 @@
 # Welcome
 
-This is the future home of a collection of information to help with a Navy reservists careeer. It is not official by any means.
+How do I do <blank>? That is the purpose of this site. There are a ton of great resources for up to date information but the primary focus of this website is to crowdsource the latest up to date information on how to do things in the reserves.
+  
+This entire document is made/built entirely by crowdsourced information. That means **you** can contribute! Follow the [Contributors Guide](https://navy-reserve-wiki.readthedocs.io/en/latest/contribute/, "Contributors Guide")
+  
+## IT
 
-## Roadmap
+## Orders
 
-- Create structure
-- Create "How To Contribute" guide
+## Billets
+
+## Current Roadmap
+
+- Create structure and outline
+- Create "Contributors Guide"
 - Add intial content 
