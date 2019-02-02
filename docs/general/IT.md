@@ -1,4 +1,5 @@
-# INFORMATION SYSTEMS (IT) DEPARTMENT (N6)
+# INFORMATION SYSTEMS (IT)
+Office Code: N6
 
 The NOSC ADP department coordinates access to Navy Marine Corps Internet (NMCI), NMCI SIPR, and the NOSC Wi-Fi.
 The Navy’s computer systems are linked together and maintained by contract through NMCI.  To gain and keep access to NMCI, you must submit/complete: 
