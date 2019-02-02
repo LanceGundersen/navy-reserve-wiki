@@ -1,4 +1,5 @@
-# TRAINING DEPARTMENT (N7)
+# TRAINING
+Office Code: N7
 
 The Training Department’s primary function is to coordinate, schedule, and support the training, and maintain the training records, of all assigned reservists.  The department is responsible for the coordination of instructors, training aids, reference material, and classroom spaces on drill weekends.
 
